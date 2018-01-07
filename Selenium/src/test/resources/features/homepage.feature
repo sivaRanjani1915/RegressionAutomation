@@ -3,7 +3,7 @@ Feature: login.feature
   Background:
     Then clear all array list
 
-  @Siva
+  @Sivabranch
   Scenario Outline: TC 72863 - Guest Cart Merged to Signed In Cart
    
     Given user navigate to test environment URL

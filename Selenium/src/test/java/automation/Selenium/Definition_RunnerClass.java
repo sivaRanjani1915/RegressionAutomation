@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/features",
         // @NR_DS_desktop is default
-        tags = {"@Siva"})
+        tags = {"@Sivabranch"})
 
 public class Definition_RunnerClass {
 
